@@ -1,0 +1,17 @@
+{
+  "links": {
+    "github": "https://github.com/George-Al3xander",
+    "linkedin": "https://www.linkedin.com/in/valuiskyi/"
+  },
+  "username": "georgevaluiskyi",
+  "header": {
+    "title": "I'm George, a Trainee Front-End Developer",
+    "description": "Hey there! I'm currently working on my full-fledged portfolio, but while it's still baking in the oven, I've put together this temporary one. I decided to revamp it because the old version just wasn't up to par. Below, you'll find some of my projects and contact information. Thanks very much for your attention!"
+  },
+  "body": {
+    "skills": ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS"]
+  },
+  "footer": {
+    "contact_text": "I would love to hear about your project and how I could help. Please fill in the form, and I'll get back to you as soon as possible."
+  }
+}
